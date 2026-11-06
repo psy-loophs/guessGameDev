@@ -36,7 +36,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/guessgame.git
+   git clone https://github.com/psy-loophs/guessGameDev.git
    cd guessgame
    ```
 
